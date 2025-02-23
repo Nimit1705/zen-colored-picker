@@ -1,0 +1,12 @@
+[
+    {
+        "property": "nova.color.picker-grid",
+        "label": "Enable grid",
+        "type": "checkbox"
+    },
+    {
+        "property": "nova.color.picker-frame",
+        "label": "Enable frame",
+        "type": "checkbox"
+    }
+]
